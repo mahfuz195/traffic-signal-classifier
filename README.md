@@ -1,1 +1,1 @@
-# traffic-signal-classifier
+# Traffic Signal Phase Classifier
